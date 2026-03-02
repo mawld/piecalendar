@@ -29,16 +29,27 @@ The calendar should feature a customizable weekly view.
 - Administrator
 - Description
 - Participants
+- Category Options
+
+### Category Options
+
+- Option Id
+- Option name
+- Option default color
 
 ### Event
 
 - Id
 - Name
 - Creator
+- Category
+- Color
 - Start Date
 - End Date
 - All day?
 - Start time
 - End time
+- Recurring (Never/Daily/Weekly/Monthly/Yearly)
+- Recurring frequency
 - Participants
 - Access rule
